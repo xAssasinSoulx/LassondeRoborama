@@ -5,4 +5,4 @@ Lassonde Roborama, was a 6 hours long Hackathon which competitors needed to desi
 ![](team.jpg)
 
 <h2>Video Demonstration </h2>
-![](video.mp4)
+![](video.gif)
